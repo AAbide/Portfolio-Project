@@ -42,7 +42,7 @@ nav a:hover {
 }
 
 .profile-img {
-    max-width: 150px;
+    width: 150px;
     border-radius: 50%;
     border: 4px solid white;
     margin-bottom: 15px;
